@@ -2,4 +2,4 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). 
 
-- Live Site URL: [Add live site URL here](https://bobroshaa.github.io/challenge_1/)
+- Live Site URL: https://bobroshaa.github.io/challenge_1/
